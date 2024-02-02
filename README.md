@@ -1,2 +1,4 @@
 # primeiro_repo
-experiencia de repositorio
+experiencia de repositorio para publicar e partilhar
+
+
